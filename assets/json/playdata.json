@@ -1,0 +1,146 @@
+{
+    "binhtinh": {
+        "fileName": "anh_binh_tinh.mp3",
+        "volume": 1
+    },
+    "bomay": {
+        "fileName": "bomay.mp3",
+        "volume": 1
+    },
+    "bomman": {
+        "fileName": "ezvcl.mp3",
+        "volume": 0.75
+    },
+    "bmsq": {
+        "fileName": "bmsq.mp3",
+        "volume": 0.5
+    },
+    "bopdi": {
+        "fileName": "bopdi.mp3",
+        "volume": 1
+    },
+    "cammom": {
+        "fileName": "cam.mp3",
+        "volume": 1
+    },
+    "cocc": {
+        "fileName": "cocc.mp3",
+        "volume": 1
+    },
+    "cekt": {
+        "fileName": "cekt.mp3",
+        "volume": 0.75
+    },
+    "cvad": {
+        "fileName": "cvad.mp3",
+        "volume": 0.75
+    },
+    "cts": {
+        "fileName": "cts.mp3",
+        "volume": 1
+    },
+    "clq": {
+        "fileName": "clq.mp3",
+        "volume": 0.5
+    },
+    "conchonay": {
+        "fileName": "con_cho_nay.mp3",
+        "volume": 0.5
+    },
+    "chieuemqua": {
+        "fileName": "chieuemqua.mp3",
+        "volume": 1
+    },
+    "deo": {
+        "fileName": "deo.mp3",
+        "volume": 0.5
+    },
+    "ddx": {
+        "fileName": "ddx.mp3",
+        "volume": 0.75
+    },
+    "gachong": {
+        "fileName": "gachong.mp3",
+        "volume": 1
+    },
+    "ham": {
+        "fileName": "ham.mp3",
+        "volume": 1
+    },
+    "huanrose": {
+        "fileName": "huanrose.mp3",
+        "volume": 0.5
+    },
+    "kenny": {
+        "fileName": "kenny.mp3",
+        "volume": 1
+    },
+    "lydo": {
+        "fileName": "lydo.mp3",
+        "volume": 0.3
+    },
+    "locc": {
+        "fileName": "locc.mp3",
+        "volume": 0.5
+    },
+    "noinang": {
+        "fileName": "noinang.mp3",
+        "volume": 1
+    },
+    "noinhieu": {
+        "fileName": "may_noi_hoi_nhieu_roi_day.mp3",
+        "volume": 1
+    },
+    "ranhcon": {
+        "fileName": "ranhcon.mp3",
+        "volume": 1
+    },
+    "sucdekhang": {
+        "fileName": "sucdekhang.mp3",
+        "volume": 1
+    },
+    "tobecontinue": {
+        "fileName": "tobecontinue.mp3",
+        "volume": 1
+    },
+    "trandan": {
+        "fileName": "trandan.mp3",
+        "volume": 1
+    },
+    "trandan1": {
+        "fileName": "may_chui_tao_may.mp3",
+        "volume": 1
+    },
+    "trandan2": {
+        "fileName": "may_noi_j_noi_di.mp3",
+        "volume": 1
+    },
+    "trandan3": {
+        "fileName": "thich_thi_zo.mp3",
+        "volume": 1
+    },
+    "trandan4": {
+        "fileName": "tu_nhin_tui_thay_1_hien_tuong_la.mp3",
+        "volume": 1
+    },
+    "truylac": {
+        "fileName": "truylac.mp3",
+        "volume": 0.75
+    },
+    "votay": {
+        "fileName": "votay.mp3",
+        "volume": 1
+    },
+    "vamo": {
+        "fileName": "vamo.mp3",
+        "volume": 1
+    },
+    "pewvotay": {
+        "fileName": "pewvotay.mp3",
+        "volume": 0.5
+    },
+    "yeuvoiduong": {
+        "fileName": "yeuvoiduong.mp3",
+        "volume": 0.5
+    }
+}

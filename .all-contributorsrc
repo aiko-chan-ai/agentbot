@@ -1,0 +1,59 @@
+{
+  "projectName": "agentbot-master",
+  "projectOwner": "phamleduy04",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "phamleduy04",
+      "name": "Duy Pham Le",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32657584?v=4",
+      "profile": "https://github.com/phamleduy04",
+      "contributions": [
+        "code",
+        "test",
+        "bug",
+        "doc",
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "doduc12306",
+      "name": "Đức Đỗ",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38607396?v=4",
+      "profile": "https://github.com/doduc12306",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Undoing00",
+      "name": "Undoing00",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/68627799?v=4",
+      "profile": "https://github.com/Undoing00",
+      "contributions": [
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "quanhks",
+      "name": "quanhks",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/69654567?v=4",
+      "profile": "https://instagram.com/inhalingzone",
+      "contributions": [
+        "design",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}

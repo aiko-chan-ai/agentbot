@@ -1,0 +1,14 @@
+version: "3.7"
+
+services: 
+    bot:
+        env_file: .env
+        container_name: agent-bot
+        command: [ "npm", "run", "dev" ]
+
+services: 
+    user:
+        env_file: .env
+        container_name: user-bot
+        command: [ "npm", "run", "docker-test" ]
+        depends_on: bot

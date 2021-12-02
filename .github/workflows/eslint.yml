@@ -1,0 +1,29 @@
+name: Eslint
+on:
+  push:
+    branches: 
+      - '*'
+    paths-ignore:
+      - '.github/**'
+      - '*.md'
+      - 'assets/**'
+      - 'LICENSE'
+      - '.all-contributorsrc'
+      - '.travis.yml'
+  pull_request:
+    branches: 
+      - '*'
+    paths-ignore:
+      - '.github/**'
+      - '*.md'
+      - 'assets/**'
+      - 'LICENSE'
+      - '.all-contributorsrc'
+      - '.travis.yml'
+jobs:
+  eslint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn install --frozen-lockfile
+      - run: yarn run eslint
