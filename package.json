@@ -19,7 +19,7 @@
     "graphlib": "^2.1.8",
     "is-url": "^1.2.4",
     "ksoft.js": "^3.1.4",
-    "mathjs": "9.3.2",
+    "mathjs": "10.0.1",
     "moment": "2.29.1",
     "moment-timezone": "0.5.33",
     "ms": "^2.1.3",
