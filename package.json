@@ -35,7 +35,7 @@
     "topgg-autoposter": "^1.1.10",
     "twemoji-parser": "^13.0.0",
     "weather-js": "^2.0.0",
-    "yahoo-stock-api": "^1.0.6"
+    "yahoo-stock-api": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^7.24.0",
